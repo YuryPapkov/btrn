@@ -1,0 +1,9 @@
+.header {
+  margin: auto;
+  width: 90vw;
+  max-width: 1200px;
+  height: auto;
+  padding: 20px 0 20px;
+  background-image: url('../images/012.jpg');
+  background-position: center;
+}
