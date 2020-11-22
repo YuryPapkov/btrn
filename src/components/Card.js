@@ -1,10 +1,19 @@
 import React from 'react';
 
 
-function Card({ filePath }) {
-  console.log(filePath)
+function Card({ fileName, onClick }) {
+
+  console.log(fileName)
+
+  const onCardClick = () => {
+    console.log(fileName);
+    onClick(fileName);
+  }
   return (
-    <img src={filePath} className="card" alt="" />
+    <img
+      src={fileName}
+      onClick={onCardClick}
+      className="card" alt="" />
   )
 
 }
