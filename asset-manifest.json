@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/btrn/static/css/main.63912105.chunk.css",
-    "main.js": "/btrn/static/js/main.d28f10c3.chunk.js",
-    "main.js.map": "/btrn/static/js/main.d28f10c3.chunk.js.map",
-    "runtime-main.js": "/btrn/static/js/runtime-main.c3699e95.js",
-    "runtime-main.js.map": "/btrn/static/js/runtime-main.c3699e95.js.map",
-    "static/js/2.6c8da30f.chunk.js": "/btrn/static/js/2.6c8da30f.chunk.js",
-    "static/js/2.6c8da30f.chunk.js.map": "/btrn/static/js/2.6c8da30f.chunk.js.map",
-    "static/js/3.1dd726ed.chunk.js": "/btrn/static/js/3.1dd726ed.chunk.js",
-    "static/js/3.1dd726ed.chunk.js.map": "/btrn/static/js/3.1dd726ed.chunk.js.map",
+    "main.css": "/btrn/static/css/main.2a42bd06.chunk.css",
+    "main.js": "/btrn/static/js/main.3ebfd39e.chunk.js",
+    "main.js.map": "/btrn/static/js/main.3ebfd39e.chunk.js.map",
+    "runtime-main.js": "/btrn/static/js/runtime-main.63700a23.js",
+    "runtime-main.js.map": "/btrn/static/js/runtime-main.63700a23.js.map",
+    "static/js/2.80d31753.chunk.js": "/btrn/static/js/2.80d31753.chunk.js",
+    "static/js/2.80d31753.chunk.js.map": "/btrn/static/js/2.80d31753.chunk.js.map",
+    "static/js/3.efaa7d68.chunk.js": "/btrn/static/js/3.efaa7d68.chunk.js",
+    "static/js/3.efaa7d68.chunk.js.map": "/btrn/static/js/3.efaa7d68.chunk.js.map",
     "index.html": "/btrn/index.html",
-    "static/css/main.63912105.chunk.css.map": "/btrn/static/css/main.63912105.chunk.css.map",
-    "static/js/2.6c8da30f.chunk.js.LICENSE.txt": "/btrn/static/js/2.6c8da30f.chunk.js.LICENSE.txt",
+    "static/css/main.2a42bd06.chunk.css.map": "/btrn/static/css/main.2a42bd06.chunk.css.map",
+    "static/js/2.80d31753.chunk.js.LICENSE.txt": "/btrn/static/js/2.80d31753.chunk.js.LICENSE.txt",
     "static/media/001.jpg": "/btrn/static/media/001.a847374f.jpg",
     "static/media/002.jpg": "/btrn/static/media/002.1290cfed.jpg",
     "static/media/003.jpg": "/btrn/static/media/003.9c3fa797.jpg",
@@ -42,12 +42,16 @@
     "static/media/028.jpg": "/btrn/static/media/028.5b6aa1fe.jpg",
     "static/media/029.jpg": "/btrn/static/media/029.68b31a02.jpg",
     "static/media/030.jpg": "/btrn/static/media/030.de0bc923.jpg",
-    "static/media/baturin-logo.svg": "/btrn/static/media/baturin-logo.08d1f41c.svg"
+    "static/media/baturin-logo.svg": "/btrn/static/media/baturin-logo.08d1f41c.svg",
+    "static/media/heart.svg": "/btrn/static/media/heart.ecde066c.svg",
+    "static/media/lens.svg": "/btrn/static/media/lens.a9de3efe.svg",
+    "static/media/lensBig.png": "/btrn/static/media/lensBig.580e68cb.png",
+    "static/media/pencil.svg": "/btrn/static/media/pencil.a086f758.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c3699e95.js",
-    "static/js/2.6c8da30f.chunk.js",
-    "static/css/main.63912105.chunk.css",
-    "static/js/main.d28f10c3.chunk.js"
+    "static/js/runtime-main.63700a23.js",
+    "static/js/2.80d31753.chunk.js",
+    "static/css/main.2a42bd06.chunk.css",
+    "static/js/main.3ebfd39e.chunk.js"
   ]
 }
